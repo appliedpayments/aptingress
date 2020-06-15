@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  ingress-nginx:
+  - apiVersion: v1
+    created: "2020-06-15T16:51:12.169219478+05:30"
+    description: Ingress-Nginx Helm chart for Kubernetes
+    digest: 834f8f06c7b0808f98c7ee9cc744a8e4963b73efd79dfa5e4ec6361a4206ea83
+    home: http://mojaloop.io
+    icon: http://mojaloop.io/images/logo.png
+    maintainers:
+    - email: miguel.debarros@modusbox.com
+      name: Miguel de Barros
+    name: ingress-nginx
+    sources:
+    - https://github.com/mojaloop/mojaloop
+    - https://github.com/mojaloop/helm
+    urls:
+    - https://github.com/appliedpayments/aptingress/ingress-nginx.tgz
+    version: 0.1.0
+generated: "2020-06-15T16:51:12.168561279+05:30"
